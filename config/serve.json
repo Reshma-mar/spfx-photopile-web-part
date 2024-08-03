@@ -1,6 +1,6 @@
 {
   "port": 4321,
-  "initialPage": "http://localhost:5432/workbench",
+  "initialPage": "https://depagroupdepa.sharepoint.com/sites/Portal/",
   "https": false,
   "api": {
     "port": 5432,
